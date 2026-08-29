@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/ff9a729a-f131-42c1-86e8-c85b3
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+"# craftvia" 
