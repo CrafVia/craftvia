@@ -1,0 +1,6 @@
+{
+  "name": "CraftVia",
+  "description": "Handwritten assignments and practical project files made as per university guidelines and delivered to your doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
